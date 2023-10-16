@@ -25,9 +25,10 @@ document.addEventListener("keyup", (e) => {
 })
 
 
-//
-Felipe Ribeiro
-Luan Dantas
-Carlos 
-Andrey Chiesa 
-Paulo Lima
+
+//Felipe Ribeiro
+//Luan Dantas
+//Carlos 
+//Andrey Chiesa 
+//Paulo Lima
+//Edson Dias
